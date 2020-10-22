@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADM3052
+D Signal and Power Isolated CAN Transceiver with Integrated Isolated DC-to-DC Converter
+K CAN Transceiver Isolator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADM3053.pdf
+$ENDCMP
+#
+#End Doc Library
